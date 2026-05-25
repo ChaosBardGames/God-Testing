@@ -1,0 +1,21 @@
+body {
+  background-color: yellow;
+}
+
+#Basic {
+  background-color: green;
+  color: red;
+  margin-top: 7px;
+  margin-bottom: 5px;
+  margin-left: 20px;
+  margin-right: 1px;
+}
+
+#Less_Basic {
+  background-color: red;
+  color: green;
+  margin-top: 5px;
+  margin-bottom: 7px;
+  margin-left: 1px;
+  margin-right: 20px;
+}
