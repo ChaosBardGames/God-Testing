@@ -2,7 +2,7 @@ body {
   background-color: yellow;
 }
 
-#Basic {
+.Basic {
   background-color: green;
   color: red;
   margin-top: 7px;
@@ -11,7 +11,7 @@ body {
   margin-right: 1px;
 }
 
-#Less_Basic {
+.Less_Basic {
   background-color: red;
   color: green;
   margin-top: 5px;
